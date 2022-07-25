@@ -1,4 +1,4 @@
-# visual-cpp-Assembler-Output-convert-to-work-with-MASM
+# visual-cpp-Assembler-Output-to-MASM
 Convert CV++ Assembler Output to work with MASM <br>
 Written by philip0000000 <br>
 Find the project here [https://github.com/philip0000000/visual-cpp-Assembler-Output-to-MASM] <br>
