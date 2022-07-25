@@ -15,7 +15,7 @@ The folder "example" contains 4 small C++ project. They allso include assembly c
 
 To get the the assembly output from visual C++ you need to set Assembler Output to something, e.g.: /FA
 
-![visual-cpp-Assembler-Output-to-MASM](Assembler Output.png "Assembler Output")
+![visual-cpp-Assembler-Output-to-MASM]("Assembler Output.png" "Assembler Output")
 
 Then use the -c flag, the 1st argument is the name of the input assembly file, 2nd argument is the name of the generated assembly file that will be used by MASM.
 
