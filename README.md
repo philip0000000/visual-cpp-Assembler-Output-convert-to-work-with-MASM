@@ -27,7 +27,7 @@ To compile with MASM, one needs the static library paths. They exist in a log fi
 
 ![visual-cpp-Assembler-Output-to-MASM](VERBOSE.png "VERBOSE")
 
-Use the -l flag, with the 1st argument being the assembly file from the -c flag, 2nd argument is the log file from using the /VERBOSE command on the Visual C++ project, and the 3rd argument is the path to ml64.exe. E.g.:
+Use the -l flag, with the 1st argument being the assembly file from the -c flag, 2nd argument is the log file from using the /VERBOSE option on the Visual C++ project, and the 3rd argument is the path to ml64.exe. E.g.:
 
 ```
 visual-cpp-Assembler-Output-to-MASM.exe -l main2.asm main.log ml64.exe
